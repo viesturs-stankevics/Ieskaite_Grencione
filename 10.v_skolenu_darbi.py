@@ -21,7 +21,7 @@
 #10 Sprūģis Gabriels
 
 #11 Stankevičs Viesturs
-
+print(sin(radians(30)+fmod(13,2)))
 #12 Strazds Emīls
 
 #13 Škutāne Ieva
